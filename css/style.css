@@ -1,0 +1,30 @@
+*{
+    color: whitesmoke;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: gray;
+}
+
+#joke-container {
+    margin-top: 20px;
+}
+
+#newbtn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+h1{
+    color: blue;
+}
+
+#newbtn:hover {
+    background-color: #0056b3;
+}
+
